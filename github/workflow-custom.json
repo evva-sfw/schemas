@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "url blub to repo file",
+  "$id": "https://github.com/evva-sfw/schemas/blob/main/github/workflow-custom.json",
   "allOf": [
     {
       "$ref": "https://json.schemastore.org/github-workflow.json"
